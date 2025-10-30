@@ -4,8 +4,8 @@
 This repository contains a **binary classification project** from a coursework assignment. The goal is to predict a binary target using a dataset with numerical, categorical, and datetime features. The project demonstrates **data preprocessing, model building, fine-tuning, and performance evaluation**.
 
 ## Contents
-- `binary_classification.ipynb` – Jupyter notebook with preprocessing, model training, and evaluation.  
-- `report.pdf` – Detailed project report including methodology, results, and discussion.  
+- `binary.ipynb` – Jupyter notebook with preprocessing, model training, and evaluation.  
+- `binary_report.pdf` – Project report including methodology, results, and discussion.  
 
 ## Key Highlights
 - Models tested: **Logistic Regression, Decision Tree, Random Forest**  
