@@ -24,7 +24,8 @@ This repository contains a **binary classification project** from a coursework a
  <img width="317" height="114" alt="image" src="https://github.com/user-attachments/assets/4e981c2a-f18b-4605-b0e3-42acd78a4ce6" />
 
 3. **Figure 3:** Confusion matrices for fine-tuned models  
-<img width="588" height="242" alt="image" src="https://github.com/user-attachments/assets/0ff1156a-dbf6-444f-9635-174960e45e87" />
+<img width="915" height="361" alt="image" src="https://github.com/user-attachments/assets/04307ff5-f985-4961-82d7-8529040b8521" />
+
 
 4. **Figure 4:** Feature importance from Decision Tee and Random Forest  
 <img width="652" height="219" alt="image" src="https://github.com/user-attachments/assets/22fb9699-e973-4761-9204-1d703601fc2d" />
