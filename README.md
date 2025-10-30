@@ -1,4 +1,4 @@
-# Binary Classification Project
+# Binary Classification Project (Data Exploration & Modeling)
 
 ## Overview
 This repository contains a **binary classification project** from a coursework assignment. The goal is to predict a binary target using a dataset with numerical, categorical, and datetime features. The project demonstrates **data preprocessing, model building, fine-tuning, and performance evaluation**.
